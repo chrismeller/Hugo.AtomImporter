@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Hugo.AtomImporter.Client": {
+      "commandName": "Project"
+    }
+  }
+}
